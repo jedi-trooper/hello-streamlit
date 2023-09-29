@@ -1,3 +1,4 @@
+breeze_connect
 breeze-connect
 altair
 numpy
